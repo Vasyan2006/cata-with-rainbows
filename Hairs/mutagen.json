@@ -1,0 +1,359 @@
+[
+    {
+        "abstract" : "mutagen_flavor_bodyparts",
+        "type" : "COMESTIBLE",
+        "comestible_type" : "DRINK",
+        "name" : "mutagen_flavor_bodyparts",
+        "description" : "Редкое вещество неопределенного происхождения. Вызывает мутацию.",
+        "category" : "mutagen",
+        "weight" : 250,
+        "volume" : 1,
+        "price" : 100000, "//" : "Not commercially traded, in case there was any question.",
+        "phase" : "liquid",
+        "container" : "flask_glass",
+        "symbol" : "~",
+        "color" : "light_green",
+        "healthy" : 0,
+        "addiction_potential" : 0,
+        "use_action" : "MUTAGEN",
+        "flags" : [ "MUTAGEN_STRONG" ]
+    },
+    {
+        "id" : "mutagen_eye",
+        "copy-from" : "mutagen_flavor_bodyparts",
+        "type" : "COMESTIBLE",
+        "name" : "Мутация глаз",
+        "description" : "Мутация глаз.",
+        "price" : 5000,
+        "healthy" : 0,
+        "addiction_potential" : 0,
+        "flags" : [ "MUTAGEN_BODYPARTS_EYE" ]
+    },
+    {
+        "id" : "mutagen_eye_blue",
+        "copy-from" : "mutagen_flavor_bodyparts",
+        "type" : "COMESTIBLE",
+        "name" : "Мутация - голубые глаза",
+        "description" : "Мутация - голубые глаза.",
+        "price" : 5000,
+        "healthy" : 0,
+        "addiction_potential" : 0,
+        "flags" : [ "MUTAGEN_BODYPARTS_EYE_BLUE" ]
+    },
+    {
+        "id" : "mutagen_eye_brown",
+        "copy-from" : "mutagen_flavor_bodyparts",
+        "type" : "COMESTIBLE",
+        "name" : "Мутация - коричневые глаза",
+        "description" : "Мутация - коричневые глаза.",
+        "price" : 5000,
+        "healthy" : 0,
+        "addiction_potential" : 0,
+        "flags" : [ "MUTAGEN_BODYPARTS_EYE_BROWN" ]
+    },
+    {
+        "id" : "mutagen_eye_gray",
+        "copy-from" : "mutagen_flavor_bodyparts",
+        "type" : "COMESTIBLE",
+        "name" : "Мутация - серые глаза",
+        "description" : "Мутация - серые глаза.",
+        "price" : 5000,
+        "healthy" : 0,
+        "addiction_potential" : 0,
+        "flags" : [ "MUTAGEN_BODYPARTS_EYE_GRAY" ]
+    },
+    {
+        "id" : "mutagen_eye_red",
+        "copy-from" : "mutagen_flavor_bodyparts",
+        "type" : "COMESTIBLE",
+        "name" : "Мутация - красные глаза",
+        "description" : "Мутация - красные глаза.",
+        "price" : 5000,
+        "healthy" : 0,
+        "addiction_potential" : 0,
+        "flags" : [ "MUTAGEN_BODYPARTS_EYE_RED" ]
+    },
+    {
+        "id" : "mutagen_eye_green",
+        "copy-from" : "mutagen_flavor_bodyparts",
+        "type" : "COMESTIBLE",
+        "name" : "Мутация - зеленые глаза",
+        "description" : "Мутация - зеленые глаза.",
+        "price" : 5000,
+        "healthy" : 0,
+        "addiction_potential" : 0,
+        "flags" : [ "MUTAGEN_BODYPARTS_EYE_GREEN" ]
+    },
+    {
+        "id" : "mutagen_eye_yellow",
+        "copy-from" : "mutagen_flavor_bodyparts",
+        "type" : "COMESTIBLE",
+        "name" : "Мутация - желтые глаза",
+        "description" : "Мутация - желтые глаза.",
+        "price" : 5000,
+        "healthy" : 0,
+        "addiction_potential" : 0,
+        "flags" : [ "MUTAGEN_BODYPARTS_EYE_YELLOW" ]
+    },
+    {
+        "id" : "mutagen_skin",
+        "copy-from" : "mutagen_flavor_bodyparts",
+        "type" : "COMESTIBLE",
+        "name" : "Мутация цвета кожи",
+        "description" : "Мутация цвета кожи.",
+        "price" : 5000,
+        "healthy" : 0,
+        "addiction_potential" : 0,
+        "flags" : [ "MUTAGEN_BODYPARTS_SKIN" ]
+    },
+    {
+        "id" : "mutagen_skin_pink",
+        "copy-from" : "mutagen_flavor_bodyparts",
+        "type" : "COMESTIBLE",
+        "name" : "Мутация цвета кожи - розовый",
+        "description" : "Мутация цвета кожи - розовый.",
+        "price" : 5000,
+        "healthy" : 0,
+        "addiction_potential" : 0,
+        "flags" : [ "MUTAGEN_BODYPARTS_SKIN_PINK" ]
+    },
+    {
+        "id" : "mutagen_skin_light",
+        "copy-from" : "mutagen_flavor_bodyparts",
+        "type" : "COMESTIBLE",
+        "name" : "Мутация цвета кожи - светлый",
+        "description" : "Мутация цвета кожи - светлый.",
+        "price" : 5000,
+        "healthy" : 0,
+        "addiction_potential" : 0,
+        "flags" : [ "MUTAGEN_BODYPARTS_SKIN_LIGHT" ]
+    },
+    {
+        "id" : "mutagen_skin_tan",
+        "copy-from" : "mutagen_flavor_bodyparts",
+        "type" : "COMESTIBLE",
+        "name" : "Мутация цвета кожи - загар",
+        "description" : "Мутация цвета кожи - загар.",
+        "price" : 5000,
+        "healthy" : 0,
+        "addiction_potential" : 0,
+        "flags" : [ "MUTAGEN_BODYPARTS_SKIN_TAN" ]
+    },
+    {
+        "id" : "mutagen_skin_dark",
+        "copy-from" : "mutagen_flavor_bodyparts",
+        "type" : "COMESTIBLE",
+        "name" : "Мутация цвета кожи - темный",
+        "description" : "Мутация цвета кожи - темный.",
+        "price" : 5000,
+        "healthy" : 0,
+        "addiction_potential" : 0,
+        "flags" : [ "MUTAGEN_BODYPARTS_SKIN_DARK" ]
+    },
+    {
+        "id" : "mutagen_skin_medium",
+        "copy-from" : "mutagen_flavor_bodyparts",
+        "type" : "COMESTIBLE",
+        "name" : "Мутация цвета кожи - обычный",
+        "description" : "Мутация цвета кожи - обычный.",
+        "price" : 5000,
+        "healthy" : 0,
+        "addiction_potential" : 0,
+        "flags" : [ "MUTAGEN_BODYPARTS_SKIN_MEDIUM" ]
+    },
+    {
+        "id" : "mutagen_skin_pale",
+        "copy-from" : "mutagen_flavor_bodyparts",
+        "type" : "COMESTIBLE",
+        "name" : "Мутация цвета кожи - бледный",
+        "description" : "Мутация цвета кожи - бледный.",
+        "price" : 5000,
+        "healthy" : 0,
+        "addiction_potential" : 0,
+        "flags" : [ "MUTAGEN_BODYPARTS_PALE" ]
+    },
+    {
+        "id" : "mutagen_hair_blonde",
+        "copy-from" : "mutagen_flavor_bodyparts",
+        "type" : "COMESTIBLE",
+        "name" : "Мутация цвета волос - блондин",
+        "description" : "Мутация цвета волос - блондин.",
+        "price" : 5000,
+        "healthy" : 0,
+        "addiction_potential" : 0,
+        "flags" : [ "MUTAGEN_BODYPARTS_HAIR_BLONDE" ]
+    }
+    ,{
+        "id" : "mutagen_hair_red",
+        "copy-from" : "mutagen_flavor_bodyparts",
+        "type" : "COMESTIBLE",
+        "name" : "Мутация цвета волос - красный",
+        "description" : "Мутация цвета волос - красный.",
+        "price" : 5000,
+        "healthy" : 0,
+        "addiction_potential" : 0,
+        "flags" : [ "MUTAGEN_BODYPARTS_HAIR_RED" ]
+    }
+    ,{
+        "id" : "mutagen_hair_brown",
+        "copy-from" : "mutagen_flavor_bodyparts",
+        "type" : "COMESTIBLE",
+        "name" : "Мутация цвета волос - коричневый",
+        "description" : "Мутация цвета волос - коричневый.",
+        "price" : 5000,
+        "healthy" : 0,
+        "addiction_potential" : 0,
+        "flags" : [ "MUTAGEN_BODYPARTS_HAIR_BROWN" ]
+    }
+    ,{
+        "id" : "mutagen_hair_black",
+        "copy-from" : "mutagen_flavor_bodyparts",
+        "type" : "COMESTIBLE",
+        "name" : "Мутация цвета волос - темные",
+        "description" : "Мутация цвета волос - темные.",
+        "price" : 5000,
+        "healthy" : 0,
+        "addiction_potential" : 0,
+        "flags" : [ "MUTAGEN_BODYPARTS_HAIR_BLACK" ]
+    }
+    ,{
+        "id" : "mutagen_hair_white",
+        "copy-from" : "mutagen_flavor_bodyparts",
+        "type" : "COMESTIBLE",
+        "name" : "Мутация цвета волос - белые",
+        "description" : "Мутация цвета волос - белые.",
+        "price" : 5000,
+        "healthy" : 0,
+        "addiction_potential" : 0,
+        "flags" : [ "MUTAGEN_BODYPARTS_HAIR_WHITE" ]
+    }
+    ,{
+        "id" : "mutagen_hair_pink",
+        "copy-from" : "mutagen_flavor_bodyparts",
+        "type" : "COMESTIBLE",
+        "name" : "Мутация цвета волос - розовые",
+        "description" : "Мутация цвета волос - розовые.",
+        "price" : 5000,
+        "healthy" : 0,
+        "addiction_potential" : 0,
+        "flags" : [ "MUTAGEN_BODYPARTS_HAIR_PINK" ]
+    }
+    ,{
+        "id" : "mutagen_hair_gray",
+        "copy-from" : "mutagen_flavor_bodyparts",
+        "type" : "COMESTIBLE",
+        "description" : "Мутация цвета волос - серые.",
+        "name" : "Мутация цвета волос - серые",
+        "price" : 5000,
+        "healthy" : 0,
+        "addiction_potential" : 0,
+        "flags" : [ "MUTAGEN_BODYPARTS_HAIR_GRAY" ]
+    }
+    ,{
+        "id" : "mutagen_nohair",
+        "copy-from" : "mutagen_flavor_bodyparts",
+        "type" : "COMESTIBLE",
+        "name" : "Мутация - нет волос",
+        "description" : "Мутация - нет волос.",
+        "price" : 5000,
+        "healthy" : 0,
+        "addiction_potential" : 0,
+        "flags" : [ "MUTAGEN_BODYPARTS_NOHAIR" ]
+    },
+    
+    
+    
+    
+    {
+        "id" : "mutagen_hidge_blonde",
+        "copy-from" : "mutagen_flavor_bodyparts",
+        "type" : "COMESTIBLE",
+        "name" : "Мутация - блондинистая борода",
+        "description" : "Мутация - блондинистая борода.",
+        "price" : 5000,
+        "healthy" : 0,
+        "addiction_potential" : 0,
+        "flags" : [ "MUTAGEN_BODYPARTS_HIDGE_BLONDE" ]
+    }
+    ,{
+        "id" : "mutagen_hidge_red",
+        "copy-from" : "mutagen_flavor_bodyparts",
+        "type" : "COMESTIBLE",
+        "name" : "Мутация - красная борода",
+        "description" : "Мутация - красная борода.",
+        "price" : 5000,
+        "healthy" : 0,
+        "addiction_potential" : 0,
+        "flags" : [ "MUTAGEN_BODYPARTS_HIDGE_RED" ]
+    }
+    ,{
+        "id" : "mutagen_hidge_brown",
+        "copy-from" : "mutagen_flavor_bodyparts",
+        "type" : "COMESTIBLE",
+        "name" : "Мутация - коричневая борода",
+        "description" : "Мутация - коричневая борода.",
+        "price" : 5000,
+        "healthy" : 0,
+        "addiction_potential" : 0,
+        "flags" : [ "MUTAGEN_BODYPARTS_HIDGE_BROWN" ]
+    }
+    ,{
+        "id" : "mutagen_hidge_black",
+        "copy-from" : "mutagen_flavor_bodyparts",
+        "type" : "COMESTIBLE",
+        "name" : "Мутация - черная борода",
+        "description" : "Мутация - черная борода.",
+        "price" : 5000,
+        "healthy" : 0,
+        "addiction_potential" : 0,
+        "flags" : [ "MUTAGEN_BODYPARTS_HIDGE_BLACK" ]
+    }
+    ,{
+        "id" : "mutagen_hidge_white",
+        "copy-from" : "mutagen_flavor_bodyparts",
+        "type" : "COMESTIBLE",
+        "name" : "Мутация - белая борода",
+        "description" : "Мутация - белая борода.",
+        "price" : 5000,
+        "healthy" : 0,
+        "addiction_potential" : 0,
+        "flags" : [ "MUTAGEN_BODYPARTS_HIDGE_WHITE" ]
+    }
+    ,{
+        "id" : "mutagen_hidge_pink",
+        "copy-from" : "mutagen_flavor_bodyparts",
+        "type" : "COMESTIBLE",
+        "name" : "Мутация - розовая борода",
+        "description" : "Мутация - розовая борода.",
+        "price" : 5000,
+        "healthy" : 0,
+        "addiction_potential" : 0,
+        "flags" : [ "MUTAGEN_BODYPARTS_HIDGE_PINK" ]
+    }
+    ,{
+        "id" : "mutagen_hidge_gray",
+        "copy-from" : "mutagen_flavor_bodyparts",
+        "type" : "COMESTIBLE",
+        "name" : "Мутация - серая борода",
+        "description" : "Мутация - серая борода.",
+        "price" : 5000,
+        "healthy" : 0,
+        "addiction_potential" : 0,
+        "flags" : [ "MUTAGEN_BODYPARTS_HIDGE_GRAY" ]
+    }
+    ,{
+        "id" : "mutagen_nohidge",
+        "copy-from" : "mutagen_flavor_bodyparts",
+        "type" : "COMESTIBLE",
+        "name" : "Мутация - нет бороды",
+        "description" : "Мутация - нет бороды.",
+        "price" : 5000,
+        "healthy" : 0,
+        "addiction_potential" : 0,
+        "flags" : [ "MUTAGEN_BODYPARTS_NOHIDGE" ]
+    }
+    
+    
+    
+
+]

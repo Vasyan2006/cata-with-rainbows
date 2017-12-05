@@ -1,0 +1,261 @@
+[
+    {
+        "type" : "mutation_category",
+        "id" : "mutation_eye",
+        "name" : "mutation_eye",
+        "category" : "BODYPARTS_EYE",
+        "mutagen_message" : "mutation_eye",
+        "iv_message" : "mutation_eye",
+        "memorial_message" : "mutation_eye"
+    },{
+        "type" : "mutation_category",
+        "id" : "mutation_eye_blue",
+        "name" : "mutation_eye_blue",
+        "category" : "BODYPARTS_EYE_BLUE",
+        "mutagen_message" : "mutation_eye",
+        "iv_message" : "mutation_eye",
+        "memorial_message" : "mutation_eye"
+    },{
+        "type" : "mutation_category",
+        "id" : "mutation_eye_brown",
+        "name" : "mutation_eye_blue",
+        "category" : "BODYPARTS_EYE_BROWN",
+        "mutagen_message" : "mutation_eye",
+        "iv_message" : "mutation_eye",
+        "memorial_message" : "mutation_eye"
+    },{
+        "type" : "mutation_category",
+        "id" : "mutation_eye_gray",
+        "name" : "mutation_eye_gray",
+        "category" : "BODYPARTS_EYE_GRAY",
+        "mutagen_message" : "mutation_eye",
+        "iv_message" : "mutation_eye",
+        "memorial_message" : "mutation_eye"
+    },{
+        "type" : "mutation_category",
+        "id" : "mutation_eye_red",
+        "name" : "mutation_eye_red",
+        "category" : "BODYPARTS_EYE_RED",
+        "mutagen_message" : "mutation_eye",
+        "iv_message" : "mutation_eye",
+        "memorial_message" : "mutation_eye"
+    },{
+        "type" : "mutation_category",
+        "id" : "mutation_eye_green",
+        "name" : "mutation_eye_green",
+        "category" : "BODYPARTS_EYE_GREEN",
+        "mutagen_message" : "mutation_eye",
+        "iv_message" : "mutation_eye",
+        "memorial_message" : "mutation_eye"
+    },{
+        "type" : "mutation_category",
+        "id" : "mutation_eye_yellow",
+        "name" : "mutation_eye_yellow",
+        "category" : "BODYPARTS_EYE_YELLOW",
+        "mutagen_message" : "mutation_eye",
+        "iv_message" : "mutation_eye",
+        "memorial_message" : "mutation_eye"
+    },{
+        "type" : "mutation_category",
+        "id" : "mutation_skin",
+        "name" : "mutation_skin",
+        "category" : "BODYPARTS_SKIN",
+        "mutagen_message" : "mutation_skin",
+        "iv_message" : "mutation_skin",
+        "memorial_message" : "mutation_skin"
+    },{
+        "type" : "mutation_category",
+        "id" : "mutation_skin_pink",
+        "name" : "mutation_skin_pink",
+        "category" : "BODYPARTS_SKIN_PINK",
+        "mutagen_message" : "mutation_skin_pink",
+        "iv_message" : "mutation_skin_pink",
+        "memorial_message" : "mutation_skin_pink"
+    },{ 
+        "type" : "mutation_category",
+        "id" : "mutation_skin_light",
+        "name" : "mutation_skin_light",
+        "category" : "BODYPARTS_SKIN_LIGHT",
+        "mutagen_message" : "mutation_skin_light",
+        "iv_message" : "mutation_skin_light",
+        "memorial_message" : "mutation_skin_light"
+    },{
+        "type" : "mutation_category",
+        "id" : "mutation_skin_tan",
+        "name" : "mutation_skin_tan",
+        "category" : "BODYPARTS_SKIN_TAN",
+        "mutagen_message" : "mutation_skin_tan",
+        "iv_message" : "mutation_skin_tan",
+        "memorial_message" : "mutation_skin_tan"
+    },{
+        "type" : "mutation_category",
+        "id" : "mutation_skin_dark",
+        "name" : "mutation_skin_dark",
+        "category" : "BODYPARTS_SKIN_DARK",
+        "mutagen_message" : "mutation_skin_dark",
+        "iv_message" : "mutation_skin_dark",
+        "memorial_message" : "mutation_skin_dark"
+    },{
+        "type" : "mutation_category",
+        "id" : "mutation_skin_medium",
+        "name" : "mutation_skin_medium",
+        "category" : "BODYPARTS_SKIN_MEDIUM",
+        "mutagen_message" : "mutation_skin_medium",
+        "iv_message" : "mutation_skin_medium",
+        "memorial_message" : "mutation_skin_medium"
+    },{
+        "type" : "mutation_category",
+        "id" : "mutation_skin_pale",
+        "name" : "mutation_skin_pale",
+        "category" : "BODYPARTS_SKIN_PALE",
+        "mutagen_message" : "mutation_skin_pale",
+        "iv_message" : "mutation_skin_pale",
+        "memorial_message" : "mutation_skin_pale"
+    },{
+        "type" : "mutation_category",
+        "id" : "mutation_hair",
+        "name" : "mutation_hair",
+        "category" : "BODYPARTS_HAIR",
+        "mutagen_message" : "mutation_hair",
+        "iv_message" : "mutation_hair",
+        "memorial_message" : "mutation_hair"
+    },{
+        "type" : "mutation_category",
+        "id" : "mutation_hair_blonde",
+        "name" : "mutation_hair_blonde",
+        "category" : "BODYPARTS_HAIR_BLONDE",
+        "mutagen_message" : "mutation_hair_blonde",
+        "iv_message" : "mutation_hair_blonde",
+        "memorial_message" : "mutation_hair_blonde"
+    },{
+        "type" : "mutation_category",
+        "id" : "mutation_hair_red",
+        "name" : "mutation_hair_red",
+        "category" : "BODYPARTS_HAIR_RED",
+        "mutagen_message" : "mutation_hair_red",
+        "iv_message" : "mutation_hair_red",
+        "memorial_message" : "mutation_hair_red"
+    },{
+        "type" : "mutation_category",
+        "id" : "mutation_hair_brown",
+        "name" : "mutation_hair_brown",
+        "category" : "BODYPARTS_HAIR_BROWN",
+        "mutagen_message" : "mutation_hair_brown",
+        "iv_message" : "mutation_hair_brown",
+        "memorial_message" : "mutation_hair_brown"
+    },{
+        "type" : "mutation_category",
+        "id" : "mutation_hair_black",
+        "name" : "mutation_hair_black",
+        "category" : "BODYPARTS_HAIR_BLACK",
+        "mutagen_message" : "mutation_hair_black",
+        "iv_message" : "mutation_hair_black",
+        "memorial_message" : "mutation_hair_black"
+    },{
+        "type" : "mutation_category",
+        "id" : "mutation_hair_white",
+        "name" : "mutation_hair_white",
+        "category" : "BODYPARTS_HAIR_WHITE",
+        "mutagen_message" : "mutation_hair_white",
+        "iv_message" : "mutation_hair_white",
+        "memorial_message" : "mutation_hair_white"
+    },{
+        "type" : "mutation_category",
+        "id" : "mutation_hair_pink",
+        "name" : "mutation_hair_pink",
+        "category" : "BODYPARTS_HAIR_PINK",
+        "mutagen_message" : "mutation_hair_pink",
+        "iv_message" : "mutation_hair_pink",
+        "memorial_message" : "mutation_hair_pink"
+    },{
+        "type" : "mutation_category",
+        "id" : "mutation_hair_gray",
+        "name" : "mutation_hair_gray",
+        "category" : "BODYPARTS_HAIR_GRAY",
+        "mutagen_message" : "mutation_hair_gray",
+        "iv_message" : "mutation_hair_gray",
+        "memorial_message" : "mutation_hair_gray"
+    },{
+        "type" : "mutation_category",
+        "id" : "mutation_nohair",
+        "name" : "mutation_nohair",
+        "category" : "BODYPARTS_NOHAIR",
+        "mutagen_message" : "mutation_nohair",
+        "iv_message" : "mutation_nohair",
+        "memorial_message" : "mutation_nohair"
+    },{
+        "type" : "mutation_category",
+        "id" : "mutation_hidge",
+        "name" : "mutation_hidge",
+        "category" : "BODYPARTS_HIDGE",
+        "mutagen_message" : "mutation_hidge",
+        "iv_message" : "mutation_hidge",
+        "memorial_message" : "mutation_hidge"
+    },{
+        "type" : "mutation_category",
+        "id" : "mutation_hidge_blonde",
+        "name" : "mutation_hidge_blonde",
+        "category" : "BODYPARTS_HIDGE_BLONDE",
+        "mutagen_message" : "mutation_hidge_blonde",
+        "iv_message" : "mutation_hidge_blonde",
+        "memorial_message" : "mutation_hidge_blonde"
+    },{
+        "type" : "mutation_category",
+        "id" : "mutation_hidge_red",
+        "name" : "mutation_hidge_red",
+        "category" : "BODYPARTS_HIDGE_RED",
+        "mutagen_message" : "mutation_hidge_red",
+        "iv_message" : "mutation_hidge_red",
+        "memorial_message" : "mutation_hidge_red"
+    },{
+        "type" : "mutation_category",
+        "id" : "mutation_hidge_brown",
+        "name" : "mutation_hidge_brown",
+        "category" : "BODYPARTS_HIDGE_BROWN",
+        "mutagen_message" : "mutation_hidge_brown",
+        "iv_message" : "mutation_hidge_brown",
+        "memorial_message" : "mutation_hidge_brown"
+    },{
+        "type" : "mutation_category",
+        "id" : "mutation_hidge_black",
+        "name" : "mutation_hidge_black",
+        "category" : "BODYPARTS_HIDGE_BLACK",
+        "mutagen_message" : "mutation_hidge_black",
+        "iv_message" : "mutation_hidge_black",
+        "memorial_message" : "mutation_hidge_black"
+    },{
+        "type" : "mutation_category",
+        "id" : "mutation_hidge_white",
+        "name" : "mutation_hidge_white",
+        "category" : "BODYPARTS_HIDGE_WHITE",
+        "mutagen_message" : "mutation_hidge_white",
+        "iv_message" : "mutation_hidge_white",
+        "memorial_message" : "mutation_hidge_white"
+    },{
+        "type" : "mutation_category",
+        "id" : "mutation_hidge_pink",
+        "name" : "mutation_hidge_pink",
+        "category" : "BODYPARTS_HIDGE_PINK",
+        "mutagen_message" : "mutation_hidge_pink",
+        "iv_message" : "mutation_hidge_pink",
+        "memorial_message" : "mutation_hidge_pink"
+    },{
+        "type" : "mutation_category",
+        "id" : "mutation_hidge_gray",
+        "name" : "mutation_hidge_gray",
+        "category" : "BODYPARTS_HIDGE_GRAY",
+        "mutagen_message" : "mutation_hidge_gray",
+        "iv_message" : "mutation_hidge_gray",
+        "memorial_message" : "mutation_hidge_gray"
+    },{
+        "type" : "mutation_category",
+        "id" : "mutation_nohidge",
+        "name" : "mutation_nohidge",
+        "category" : "BODYPARTS_NOHIDGE",
+        "mutagen_message" : "mutation_nohidge",
+        "iv_message" : "mutation_nohidge",
+        "memorial_message" : "mutation_nohidge"
+    }
+    
+    
+]
