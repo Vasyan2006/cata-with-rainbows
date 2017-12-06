@@ -39058,17 +39058,8 @@
           "id": "mon_gull",
           "fg": 4224,
           "rotates": false
-        },
+        }
 
-	{ "id": "L dinos", "fg": 0, "rotates": false },
-		{ "id": "mon_spinosaurus",			"fg": 5464, "rotates": false },
-		{ "id": "mon_tyrannosaurus",		"fg": 5465, "rotates": false },
-		{ "id": "mon_triceratops",			"fg": 5466, "rotates": false },
-		{ "id": "mon_stegosaurus",			"fg": 5467, "rotates": false },
-		{ "id": "mon_ankylosaurus",			"fg": 5468, "rotates": false },
-		{ "id": "mon_allosaurus",			"fg": 5469, "rotates": false },
-		{ "id": "mon_parasaurolophus",		"fg": 5470, "rotates": false },
-		{ "id": "mon_utahraptor",			"fg": 5471, "rotates": false }
 		]
     },
     {
@@ -39774,7 +39765,18 @@
           "id": "mon_yugg",
           "fg": 5462,
           "rotates": false
-        }
+        },
+
+	{ "id": "L dinos", "fg": 0, "rotates": false },
+	{ "id": "mon_spinosaurus",			"fg": 5464, "rotates": false },
+	{ "id": "mon_tyrannosaurus",		"fg": 5465, "rotates": false },
+	{ "id": "mon_triceratops",			"fg": 5466, "rotates": false },
+	{ "id": "mon_stegosaurus",			"fg": 5467, "rotates": false },
+	{ "id": "mon_ankylosaurus",			"fg": 5468, "rotates": false },
+	{ "id": "mon_allosaurus",			"fg": 5469, "rotates": false },
+	{ "id": "mon_parasaurolophus",		"fg": 5470, "rotates": false },
+	{ "id": "mon_utahraptor",			"fg": 5471, "rotates": false }
+	    
     ]
     },
     {
