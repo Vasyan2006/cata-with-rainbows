@@ -1,0 +1,75 @@
+[
+
+
+
+
+  {
+    "id": "napilnik",
+    "type": "TOOL",
+    "name": "napilnik",
+    "name_plural": "napilniki",
+    "description": "Use it to improve your game experience.",
+    "weight": 907,
+    "volume": 2,
+    "price": 1200,
+    "to_hit": 1,
+    "bashing": 9,
+    "material": "steel",
+    "symbol": ";",
+    "color": "light_gray",
+    "qualities": [ [ "VASYANSTVO", 2 ], [ "KIRILSTVO", 2 ] ],
+    "use_action": ["IUSE_LUA_DOPILIT", "IUSE_LUA_ZAPILIT", "IUSE_LUA_OTPILIT" ]
+  },
+  {
+    "id": "scissors",
+    "type": "TOOL",
+    "name": "pair of scissors",
+    "name_plural": "pairs of scissors",
+    "description": "These are a long pair of heavy duty scissors.  Use scissors to cut items made from cotton (like clothing) into rags.",
+    "weight": 113,
+    "volume": 1,
+    "price": 400,
+    "to_hit": -1,
+    "cutting": 6,
+    "material": [ "aluminum", "plastic" ],
+    "symbol": ",",
+    "color": "light_red",
+    "qualities": [ [ "CUT", 1 ] ],
+    "flags": [ "SPEAR" ],
+    "use_action": [ "IUSE_LUA_TRIM_FUR"]
+  },
+  {
+    "id": "elec_hairtrimmer",
+    "type": "TOOL",
+    "name": "electric hair trimmer",
+    "description": "This is a pocket-sized electric trimmer made for cutting hair.  You can use it to cut your hair if it's supplied with batteries.  It requires 10 batteries per use.",
+    "weight": 138,
+    "volume": 1,
+    "price": 3000,
+    "to_hit": -1,
+    "bashing": 1,
+    "material": [ "plastic", "aluminum" ],
+    "symbol": ";",
+    "color": "yellow",
+    "ammo": "battery",
+    "initial_charges": 50,
+    "max_charges": 50,
+    "charges_per_use": 10,
+    "use_action": ["HAIRKIT", "IUSE_LUA_TRIM_FUR"]
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]

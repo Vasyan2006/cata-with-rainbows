@@ -1,0 +1,23 @@
+[
+    {
+        "type" : "item_action",
+        "id" : "IUSE_LUA_DOPILIT",
+        "name" : "Dopilit the game"
+    },
+    {
+        "type" : "item_action",
+        "id" : "IUSE_LUA_ZAPILIT",
+        "name" : "Zapilit roga"
+    },
+    {
+        "type" : "item_action",
+        "id" : "IUSE_LUA_OTPILIT",
+        "name" : "Otpilit roga"
+    },
+    {
+        "type" : "item_action",
+        "id" : "IUSE_LUA_TRIM_FUR",
+        "name" : "Trim your fur"
+    }
+    
+]

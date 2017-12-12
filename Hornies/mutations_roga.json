@@ -1,0 +1,39 @@
+[
+    
+    
+    
+    {
+        "type" : "mutation",
+        "id" : "MALY_ROGA",
+        "name" : "MALY_ROGA",
+        "points" : 0,
+        "description" : "MALY_ROGA",
+        "starting_trait" : true,
+        "valid" : false,
+        "purifiable": false,
+        "category" : ["MUTCAT_LUPINE","MUTCAT_BODYPARTS_SKIN", "MUTCAT_BODYPARTS_PALE"]
+    },
+    {
+        "type" : "mutation",
+        "id" : "HORNY",
+        "name" : "HORNY",
+        "points" : 0,
+        "description" : "HORNY",
+        "starting_trait" : true,
+        "valid" : false,
+        "purifiable": false,
+        "category" : ["MUTCAT_LUPINE","MUTCAT_BODYPARTS_SKIN", "MUTCAT_BODYPARTS_PALE"]
+    },
+    {
+        "type" : "mutation",
+        "id" : "VERY_HORNY",
+        "name" : "VERY_HORNY",
+        "points" : 0,
+        "description" : "VERY_HORNY",
+        "starting_trait" : true,
+        "valid" : false,
+        "purifiable": false,
+        "category" : ["MUTCAT_LUPINE","MUTCAT_BODYPARTS_SKIN", "MUTCAT_BODYPARTS_PALE"]
+    }
+
+]
