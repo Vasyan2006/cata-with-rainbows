@@ -1,0 +1,17 @@
+[
+    {
+        "type" : "item_action",
+        "id" : "IUSE_LUA_DOPILIT",
+        "name" : "Dopilit the game"
+    },
+    {
+        "type" : "item_action",
+        "id" : "IUSE_LUA_TRIM_HAIR",
+        "name" : "Trim your hair"
+    },
+    {
+        "type" : "item_action",
+        "id" : "IUSE_LUA_REMOVE_FORELOCK",
+        "name" : "Remove forelock"
+    }
+]

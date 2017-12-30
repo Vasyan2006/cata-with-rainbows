@@ -1,0 +1,359 @@
+[
+   
+
+    {
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_HAIR",
+        "name" : "THRESH_BODYPARTS_HAIR",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_HAIR",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    } 
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_HAIR_WHITE",
+        "name" : "THRESH_BODYPARTS_HAIR_WHITE",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_HAIR_WHITE",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    }
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_HAIR_BLACK",
+        "name" : "THRESH_BODYPARTS_HAIR_BLACK",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_HAIR_BLACK",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    }
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_HAIR_GRAY",
+        "name" : "THRESH_BODYPARTS_HAIR_GRAY",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_HAIR_GRAY",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    }
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_HAIR_RED",
+        "name" : "THRESH_BODYPARTS_HAIR_RED",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_HAIR_RED",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    }
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_HAIR_PINK",
+        "name" : "THRESH_BODYPARTS_HAIR_PINK",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_HAIR_PINK",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    }
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_HAIR_BROWN",
+        "name" : "THRESH_BODYPARTS_HAIR_BROWN",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_HAIR_BROWN",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    }
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_HAIR_BLONDE",
+        "name" : "THRESH_BODYPARTS_HAIR_BLONDE",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_HAIR_BLONDE",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    }
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_HAIR_DECORATION",
+        "name" : "THRESH_BODYPARTS_HAIR_DECORATION",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_HAIR_DECORATION",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    }
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_NOHAIR",
+        "name" : "THRESH_BODYPARTS_NOHAIR",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_NOHAIR",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    },
+    {
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_HIDGE",
+        "name" : "THRESH_BODYPARTS_HIDGE",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_HIDGE",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    } 
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_HIDGE_WHITE",
+        "name" : "THRESH_BODYPARTS_HIDGE_WHITE",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_HIDGE_WHITE",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    }
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_HIDGE_BLACK",
+        "name" : "THRESH_BODYPARTS_HIDGE_BLACK",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_HIDGE_BLACK",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    }
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_HIDGE_GRAY",
+        "name" : "THRESH_BODYPARTS_HIDGE_GRAY",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_HIDGE_GRAY",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    }
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_HIDGE_RED",
+        "name" : "THRESH_BODYPARTS_HIDGE_RED",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_HIDGE_RED",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    }
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_HIDGE_PINK",
+        "name" : "THRESH_BODYPARTS_HIDGE_PINK",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_HIDGE_PINK",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    }
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_HIDGE_BROWN",
+        "name" : "THRESH_BODYPARTS_HIDGE_BROWN",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_HIDGE_BROWN",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    }
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_HIDGE_BLONDE",
+        "name" : "THRESH_BODYPARTS_HIDGE_BLONDE",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_HIDGE_BLONDE",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    }
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_HIDGE_DECORATION",
+        "name" : "THRESH_BODYPARTS_HIDGE_DECORATION",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_HIDGE_DECORATION",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    }
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_NOHIDGE",
+        "name" : "THRESH_BODYPARTS_NOHIDGE",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_NOHIDGE",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    }
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS",
+        "name" : "THRESH_BODYPARTS",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    }
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_SKIN",
+        "name" : "THRESH_BODYPARTS_SKIN",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_SKIN",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    }
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_SKIN_PINK",
+        "name" : "THRESH_BODYPARTS_SKIN_PINK",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_SKIN_PINK",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    }
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_SKIN_LIGHT",
+        "name" : "THRESH_BODYPARTS_SKIN_LIGHT",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_SKIN_LIGHT",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    }
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_SKIN_TAN",
+        "name" : "THRESH_BODYPARTS_SKIN_TAN",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_SKIN_TAN",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    }
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_SKIN_DARK",
+        "name" : "THRESH_BODYPARTS_SKIN_DARK",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_SKIN_DARK",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    }
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_SKIN_MEDIUM",
+        "name" : "THRESH_BODYPARTS_SKIN_MEDIUM",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_SKIN_MEDIUM",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    }
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_SKIN_PALE",
+        "name" : "THRESH_BODYPARTS_SKIN_PALE",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_SKIN_PALE",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    }
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_EYE",
+        "name" : "THRESH_BODYPARTS_EYE",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_EYE",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    }
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_EYE_BLUE",
+        "name" : "THRESH_BODYPARTS_EYE_BLUE",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_EYE_BLUE",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    }
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_EYE_BROWN",
+        "name" : "THRESH_BODYPARTS_EYE_BROWN",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_EYE_BROWN",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    }
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_EYE_GRAY",
+        "name" : "THRESH_BODYPARTS_EYE_GRAY",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_EYE_GRAY",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    }
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_EYE_RED",
+        "name" : "THRESH_BODYPARTS_EYE_RED",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_EYE_RED",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    }
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_EYE_GREEN",
+        "name" : "THRESH_BODYPARTS_EYE_GREEN",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_EYE_GREEN",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    }
+    ,{
+        "type" : "mutation",
+        "id" : "THRESH_BODYPARTS_EYE_YELLOW",
+        "name" : "THRESH_BODYPARTS_EYE_YELLOW",
+        "points" : 0,
+        "description" : "THRESH_BODYPARTS_EYE_YELLOW",
+        "valid": false,
+        "purifiable": false,
+        "threshold": true
+    }
+
+    
+
+
+
+]

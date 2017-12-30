@@ -1,0 +1,21 @@
+[
+
+
+    {
+        "type": "effect_type",
+        "id": "hair_length",
+        "name": [ "hair_length" ],
+        "max_intensity": 50,
+        "int_dur_factor": 1
+    },
+    {
+        "type": "effect_type",
+        "id": "hige_length",
+        "name": [ "hige_length" ],
+        "max_intensity": 10,
+        "int_dur_factor": 1
+    }
+    
+    
+   
+]
