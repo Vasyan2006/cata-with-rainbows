@@ -1,0 +1,897 @@
+[
+  {
+    "type" : "trait_group",
+    "id" : "trait_group_spider",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "FLEET" },
+        { "trait": "POISRESIST" },
+        { "trait": "NIGHTVISION3" },
+        { "trait": "INFRARED" },
+        { "trait": "WEB_WALKER" },
+        { "trait": "DEX_UP_2" },
+        { "trait": "TROGLO" },
+        { "trait": "CARNIVORE" },
+        { "trait": "COLDBLOOD" }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_spider_nonthres",
+    "subtype": "collection",
+    "traits": [
+    { "distribution": [
+        { "trait": "CHITIN3" },
+        { "trait": "CHITIN_FUR2" } ] },   
+    { "trait": "POISONOUS" },
+    { "trait": "MANDIBLES" },
+    { "distribution": [
+        { "trait": "ARACHNID_ARMS" },
+        { "trait": "ARACHNID_ARMS_OK" } ] }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_spider_postthres",
+    "subtype": "collection",
+    "traits": [
+    { "trait": "THRESH_SPIDER" },
+    { "trait": "CHITIN_FUR3" },
+    { "trait": "CF_HAIR" },
+    { "trait": "POISONOUS2" },
+    { "trait": "PRED3" },
+    { "trait": "SAPIOVORE" },
+    { "trait": "FANGS_SPIDER" },
+    { "distribution": [
+        { "trait": "WEB_SPINNER" },
+        { "collection": [ 
+            { "trait": "WEB_WEAVER" },
+            { "trait": "WEB_RAPPEL" },
+            { "trait": "WEB_ROPE" } ] } ] }
+    ]
+  },
+  
+  {
+    "type" : "trait_group",
+    "id" : "trait_group_alpha",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "GOODHEARING" },
+        { "trait": "ROBUST" },
+        { "trait": "PRETTY" },
+        { "trait": "ANTIJUNK" },
+        { "trait": "NAUSEA" },
+        { "trait": "HUNGER" },
+        { "trait": "ROT3" }
+    ]
+  },{  
+    "type" : "trait_group",
+    "id" : "trait_group_alpha_nonthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "WAKEFUL" },
+        { "trait": "STR_UP_2" },
+        { "trait": "DEX_UP" },
+        { "trait": "INT_UP" },
+        { "trait": "PER_UP_2" }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_alpha_postthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "THRESH_ALPHA" },
+        { "trait": "WAKEFUL2" },
+        { "trait": "STR_ALPHA" },
+        { "trait": "DEX_ALPHA" },
+        { "trait": "INT_ALPHA" },
+        { "trait": "PER_ALPHA" }
+    ]
+  },
+  
+  {
+    "type" : "trait_group",
+    "id" : "trait_group_fish",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "GOODCARDIO" },
+        { "trait": "QUICK" },
+        { "trait": "LIGHTEATER" },
+        { "trait": "ROBUST" },
+        { "trait": "NIGHTVISION3" },
+        { "trait": "FANGS" },
+        { "trait": "MEMBRANE" },
+        { "trait": "GILLS" },
+        { "trait": "SLEEK_SCALES" },
+        { "trait": "TAIL_FIN" },
+        { "trait": "SMELLY2" },
+        { "trait": "DEFORMED" },
+        { "trait": "THIRST2" },
+        { "trait": "WEBBED" },
+        { "trait": "SLIMY" },
+        { "trait": "COLDBLOOD" }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_fish_nonthres",
+    "subtype": "collection",
+    "traits": [
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_fish_postthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "THRESH_FISH" },
+        { "trait": "DEX_UP_4" }
+    ]
+  },
+
+  {
+    "type" : "trait_group",
+    "id" : "trait_group_lupine",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "GOODCARDIO" },
+        { "trait": "SMELLY" },
+        { "distribution": [ 
+            { "trait": "UGLY" },
+            { "trait": "DEFORMED" },
+            { "trait": "PRETTY" } ] },
+        { "trait": "ANIMALDISCORD" },
+        { "trait": "NIGHTVISION2" },
+        { "trait": "FANGS" },
+        { "trait": "LUPINE_FUR" },
+        { "trait": "PADDED_FEET" },
+        { "trait": "TAIL_FLUFFY" },
+        { "trait": "LUPINE_EARS" },
+        { "trait": "STR_UP_3" },
+        { "trait": "MUZZLE" },
+        { "trait": "HEAVYSLEEPER2" },
+        { "trait": "PAWS" },
+        { "trait": "GROWL" },
+        { "trait": "SHOUT3" }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_lupine_nonthres",
+    "subtype": "collection",
+    "traits": [
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_lupine_postthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "THRESH_LUPINE" },
+        { "trait": "PRED3" }
+    ]
+  },
+
+  {
+    "type" : "trait_group",
+    "id" : "trait_group_bird",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "QUICK" },
+        { "trait": "LIGHTEATER" },
+        { "trait": "NIGHTVISION" },
+        { "trait": "DEFT" },
+        { "trait": "LIGHTSTEP" },
+        { "trait": "BADBACK" },
+        { "trait": "GLASSJAW" },
+        { "trait": "BIRD_EYE" },
+        { "trait": "FEATHERS" },
+        { "trait": "WINGS_BIRD" },
+        { "trait": "DEX_UP_3" },
+        { "trait": "HOLLOW_BONES" }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_bird_nonthres",
+    "subtype": "collection",
+    "traits": [
+       { "trait": "BEAK" }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_bird_postthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "THRESH_BIRD" },
+        { "trait": "DOWN" },
+        { "trait": "TALONS" },
+        { "trait": "GIZZARD" },
+        { "trait": "FLEET2" },
+        { "trait": "PER_UP_4" },
+        { "distribution": [ 
+            { "trait": "BEAK_PECK" },
+            { "trait": "BEAK_HUM" } ] }
+
+    ]
+  },
+
+  {
+    "type" : "trait_group",
+    "id" : "trait_group_insect",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "QUICK" },
+        { "trait": "LIGHTEATER" },
+        { "trait": "NIGHTVISION" },
+        { "trait": "POISRESIST" },
+        { "trait": "TERRIFYING" },
+        { "trait": "HEAVYSLEEPER" },
+        { "trait": "NIGHTVISION2" },
+        { "trait": "INFRARED" },
+        { "trait": "CHITIN2" },
+        { "trait": "PHEROMONE_INSECT" },
+        { "trait": "COMPOUND_EYES" },
+        { "trait": "ANTENNAE" },
+        { "trait": "TAIL_STING" },
+        { "trait": "MANDIBLES" },
+        { "trait": "STR_UP" },
+        { "trait": "DEX_UP" },
+        { "trait": "DEFORMED" },
+        { "trait": "TROGLO" },
+        { "trait": "COLDBLOOD3"  }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_insect_nonthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "WINGS_INSECT" }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_insect_postthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "THRESH_INSECT" },
+        { "distribution": [ 
+            { "trait": "WINGS_BUTTERFLY" },
+            { "trait": "WINGS_INSECT" } ] },
+        { "trait": "PROBOSCIS" },
+        { "distribution": [ 
+            { "trait": "INSECT_ARMS" },
+            { "trait": "INSECT_ARMS_OK" } ]}
+    ]
+  },
+
+  {
+    "type" : "trait_group",
+    "id" : "trait_group_troglobite",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "QUICK" },
+        { "trait": "LIGHTEATER" },
+        { "trait": "MYOPIC" },
+        { "trait": "NIGHTVISION3" },
+        { "trait": "INFRARED" },
+        { "trait": "REGEN" },
+        { "trait": "DISIMMUNE" },
+        { "trait": "INFRESIST" },
+        { "trait": "POISONOUS" },
+        { "trait": "ALCMET" },
+        { "trait": "SAPROVORE" },
+        { "trait": "STR_UP_3"  },
+        { "trait": "SUNBURN"  },
+        { "trait": "TROGLO3"  },
+        { "trait": "SLIMY"  }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_troglobite_nonthres",
+    "subtype": "collection",
+    "traits": [
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_troglobite_postthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "THRESH_TROGLOBITE" },
+        { "trait": "PAINRESIST_TROGLO" },
+        { "trait": "STOCKY_TROGLO" },
+        { "trait": "EATPOISON" }
+    ]
+  },
+
+  {
+    "type" : "trait_group",
+    "id" : "trait_group_chimera",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "QUICK" },
+        { "trait": "THICKSKIN" },
+        { "trait": "TERRIFYING" },
+        { "trait": "ADRENALINE" },
+        { "trait": "SLEEPY" },
+        { "trait": "BADTEMPER" },
+        { "trait": "FORGETFUL" },
+        { "trait": "CHEMIMBALANCE" },
+        { "trait": "NIGHTVISION2" },
+        { "trait": "SCALES" },
+        { "trait": "LIGHTFUR" },
+        { "trait": "TALONS" },
+        { "trait": "PARAIMMUNE" },
+        { "trait": "HOOVES" },
+        { "trait": "SAPROVORE" },
+        { "trait": "HORNS_CURLED" },
+        { "trait": "TAIL_CLUB" },
+        { "trait": "CANINE_EARS"  },
+        { "trait": "STR_UP_3" },
+        { "trait": "DEX_UP_2" },
+        { "trait": "PER_UP_2" },
+        { "trait": "MOUTH_FLAPS" },
+        { "trait": "SMELLY2" },
+        { "trait": "DEFORMED3" },
+        { "trait": "HUNGER3" },
+        { "trait": "THIRST" },
+        { "trait": "ROT2" },
+        { "distribution": [ 
+            { "trait": "UNSTABLE" },
+            { "trait": "CHAOTIC" } ] },
+        { "trait": "CARNIVORE" },
+        { "trait": "SNARL" },
+        { "trait": "SHOUT3" }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_chimera_nonthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "FANGS" }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_chimera_postthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "THRESH_CHIMERA" },
+        { "trait": "PRED4" },
+        { "trait": "SAPIOVORE" },
+        { "trait": "MUT_JUNKIE" },
+        { "trait": "MUT_TOUGH2" },
+        { "trait": "EATPOISON" },
+        { "trait": "EATDEAD" },
+        { "trait": "SABER_TEETH" },
+        { "trait": "EATHEALTH" }
+    ]
+  },
+
+  {
+    "type" : "trait_group",
+    "id" : "trait_group_raptor",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "QUICK" },
+        { "trait": "THICKSKIN" },
+        { "trait": "DEFT" },
+        { "trait": "ANTIJUNK" },
+        { "trait": "GLASSJAW" },
+        { "trait": "ANIMALDISCORD" },
+        { "trait": "UGLY" },
+        { "trait": "LIZ_EYE" },
+        { "trait": "SCALES" },
+        { "trait": "NAILS" },
+        { "trait": "RAP_TALONS" },
+        { "trait": "TAIL_RAPTOR"  },
+        { "trait": "STR_UP" },
+        { "trait": "DEX_UP_2" },
+        { "trait": "PER_UP_3" },
+        { "trait": "SLIT_NOSTRILS" },
+        { "trait": "FORKED_TONGUE" },
+        { "trait": "HUNGER2" },
+        { "trait": "CARNIVORE" },
+        { "trait": "COLDBLOOD2" },
+        { "trait": "HISS" },
+        { "trait": "SHOUT1" },
+        { "trait": "ARM_FEATHERS" }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_raptor_nonthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "FANGS" }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_raptor_postthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "THRESH_RAPTOR" },
+        { "trait": "PRED4" },
+        { "trait": "SAPIOVORE" },
+        { "trait": "EATPOISON" }
+    ]
+  },
+
+  {
+    "type" : "trait_group",
+    "id" : "trait_group_medical",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "FASTHEALER" },
+        { "trait": "POISRESIST" },
+        { "trait": "DISRESISTANT" },
+        { "trait": "SELFAWARE" },
+        { "trait": "MASOCHIST" },
+        { "trait": "ROBUST" },
+        { "trait": "HEAVYSLEEPER" },
+        { "trait": "INSOMNIA" },
+        { "trait": "FORGETFUL" },
+        { "trait": "LIGHTWEIGHT" },
+        { "trait": "ADDICTIVE" },
+        { "trait": "CHEMIMBALANCE" },
+        { "trait": "SCHIZOPHRENIC" },
+        { "trait": "JITTERY" },
+        { "trait": "MOODSWINGS" },
+        { "trait": "RADIOGENIC" },
+        { "trait": "INFIMMUNE" },
+        { "trait": "PARAIMMUNE" },
+        { "trait": "PAINREC3" },
+        { "trait": "VOMITOUS" },
+        { "trait": "HUNGER" },
+        { "trait": "UNSTABLE" }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_medical_nonthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "PAINRESIST" }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_medical_postthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "THRESH_MEDICAL" },
+        { "trait": "MUT_TOUGH2" },
+        { "trait": "CENOBITE" },
+        { "trait": "NOPAIN", "prob": 50 },
+        { "trait": "MUT_JUNKIE" }
+    ]
+  },
+
+  {
+    "type" : "trait_group",
+    "id" : "trait_group_cattle",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "NIGHTVISION" },
+        { "trait": "THICKSKIN" },
+        { "trait": "DISRESISTANT" },
+        { "trait": "FUR" },
+        { "trait": "HOOVES" },
+        { "trait": "HORNS" },
+        { "trait": "TAIL_CATTLE" },
+        { "trait": "CANINE_EARS" },
+        { "trait": "STR_UP_2" },
+        { "trait": "DEFORMED" },
+        { "trait": "MINOTAUR" },
+        { "trait": "PONDEROUS2" }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_cattle_nonthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "RUMINANT" },
+        { "trait": "HUGE" }
+
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_cattle_postthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "THRESH_CATTLE" },
+        { "trait": "GRAZER" },
+        { "trait": "HUGE_OK" },
+        { "trait": "MUT_TOUGH3" }
+    ]
+  },
+  
+  {
+    "type" : "trait_group",
+    "id" : "trait_group_slime",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "POISRESIST" },
+        { "trait": "ROBUST" },
+        { "trait": "CHEMIMBALANCE" },
+        { "trait": "REGEN" },
+        { "trait": "RADIOGENIC" },
+        { "trait": "DISIMMUNE" },
+        { "trait": "PARAIMMUNE" },
+        { "trait": "POISONOUS" },
+        { "trait": "SLIME_HANDS" },
+        { "trait": "DEX_UP" },
+        { "trait": "DEFORMED3" },
+        { "trait": "HOLLOW_BONES" },
+        { "trait": "VOMITOUS" },
+        { "trait": "HUNGER2" },
+        { "trait": "THIRST2" },
+        { "trait": "SORES" },
+        { "trait": "TROGLO" },
+        { "trait": "WEBBED" },
+        { "trait": "UNSTABLE" },
+        { "trait": "RADIOACTIVE1", "prob": 5 },
+        { "trait": "SLIMY" }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_slime_nonthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "INT_UP" }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_slime_postthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "THRESH_SLIME" },
+        { "trait": "INT_SLIME" },
+        { "trait": "BENDY3" },
+        { "trait": "VISCOUS" },
+        { "trait": "AMORPHOUS" },
+        { "trait": "SLIMESPAWNER" },
+        { "trait": "SMELLY2" },
+        { "distribution": [ 
+            { "trait": "PER_SLIME" },
+            { "trait": "PER_SLIME_OK" } ] }
+    ]
+  },
+
+  {
+    "type" : "trait_group",
+    "id" : "trait_group_lizard",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "THICKSKIN" },
+        { "trait": "BADTEMPER" },
+        { "trait": "LIZ_EYE" },
+        { "trait": "REGEN_LIZ" },
+        { "trait": "FANGS" },
+        { "trait": "MEMBRANE" },
+        { "trait": "TAIL_THICK" },
+        { "trait": "STR_UP_2" },
+        { "trait": "DEX_UP_2" },
+        { "trait": "SLIT_NOSTRILS" },
+        { "trait": "FORKED_TONGUE" },
+        { "trait": "MUZZLE_LONG" },
+        { "trait": "TROGLO" },
+        { "trait": "WEBBED" },
+        { "trait": "HISS" }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_lizard_nonthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "SCALES" },
+        { "trait": "LARGE" },
+        { "trait": "CARNIVORE" },
+        { "trait": "COLDBLOOD3"  }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_lizard_postthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "THRESH_LIZARD" },
+        { "trait": "THICK_SCALES" },
+        { "trait": "TALONS" },
+        { "trait": "MUT_TOUGH" },
+        { "trait": "PRED3" },
+        { "trait": "SAPIOVORE" },
+        { "trait": "LARGE_OK" },
+        { "trait": "COLDBLOOD4" }
+    ]
+  },
+  
+  {
+    "type" : "trait_group",
+    "id" : "trait_group_beast",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "DEFT" },
+        { "trait": "ANIMALEMPATH" },
+        { "trait": "TERRIFYING" },
+        { "trait": "ADRENALINE" },
+        { "trait": "MYOPIC" },
+        { "trait": "SLEEPY" },
+        { "trait": "ANTIJUNK" },
+        { "trait": "FORGETFUL" },
+        { "trait": "ANIMALDISCORD" },
+        { "trait": "NIGHTVISION2" },
+        { "trait": "FUR" },
+        { "trait": "CLAWS" },
+        { "trait": "PADDED_FEET" },
+        { "trait": "TAIL_FLUFFY" },
+        { "trait": "CANINE_EARS"  },
+        { "trait": "SMELLY2" },
+        { "trait": "DEFORMED2" },
+        { "trait": "MUZZLE" },
+        { "trait": "HUNGER2" },
+        { "trait": "HEAVYSLEEPER2" },
+        { "trait": "TROGLO" },
+        { "trait": "PAWS_LARGE" },
+        { "trait": "SNARL" },
+        { "trait": "SHOUT2" }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_beast_nonthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "CARNIVORE" }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_beast_postthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "THRESH_BEAST" },
+        { "trait": "MUT_TOUGH" },
+        { "trait": "PRED4" },
+        { "trait": "SAPIOVORE" },
+        { "trait": "STR_UP_4" }
+    ]
+  },
+
+  {
+    "type" : "trait_group",
+    "id" : "trait_group_rat",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "DISRESISTANT" },
+        { "trait": "NIGHTVISION2" },
+        { "trait": "INCISORS" },
+        { "trait": "FUR" },
+        { "trait": "TAIL_RAT" },
+        { "trait": "WHISKERS_RAT" },
+        { "trait": "DEFORMED3" },
+        { "trait": "MUZZLE_RAT" },
+        { "trait": "VOMITOUS" },
+        { "trait": "MET_RAT" },
+        { "trait": "PAWS" },
+        { "trait": "GROWL" }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_rat_nonthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "CLAWS_RAT" }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_rat_postthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "THRESH_RAT" },
+        { "trait": "CLAWS_ST" },
+        { "trait": "BURROW" },
+        { "trait": "INFRESIST" },
+        { "trait": "EATDEAD" }
+    ]
+  },
+
+  {
+    "type" : "trait_group",
+    "id" : "trait_group_elfa",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "LIGHTSTEP" },
+        { "trait": "WEAKSCENT" },
+        { "trait": "BADBACK" },
+        { "trait": "CHEMIMBALANCE" },
+        { "trait": "ELFAEYES" },
+        { "trait": "ELFA_FNV" },
+        { "trait": "PLANTSKIN" },
+        { "trait": "LEAVES" },
+        { "trait": "PARAIMMUNE" },
+        { "trait": "ELFA_EARS" },
+        { "trait": "STR_UP" },
+        { "trait": "DEX_UP_3" },
+        { "trait": "INT_UP_3" },
+        { "trait": "PER_UP_3" },
+        { "trait": "BEAUTIFUL3" },
+        { "trait": "HOLLOW_BONES" },
+        { "trait": "VOMITOUS" },
+        { "trait": "HUNGER" },
+        { "trait": "THIRST" },
+        { "trait": "ROT1" },
+        { "trait": "RADIOACTIVE2", "prob": 5 }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_elfa_nonthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "WAKEFUL" }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_elfa_postthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "THRESH_ELFA" },
+        { "trait": "WAKEFUL3" },
+        { "trait": "BENDY1" }
+    ]
+  },
+
+
+  {
+    "type" : "trait_group",
+    "id" : "trait_group_feline",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "LIGHTSTEP" },
+        { "trait": "SMELLY" },
+        { "distribution": [ 
+            { "trait": "PRETTY" },
+            { "trait": "DEFORMED" },
+            { "trait": "UGLY" } ] },
+        { "trait": "FEL_EYE" },
+        { "trait": "FEL_NV" },
+        { "trait": "FELINE_FUR" },
+        { "trait": "LYNX_FUR" },
+        { "trait": "CLAWS_RETRACT" },
+        { "trait": "PADDED_FEET" },
+        { "trait": "FELINE_EARS" },
+        { "trait": "WHISKERS" },
+        { "trait": "DEX_UP_3" },
+        { "trait": "SNOUT" },
+        { "trait": "SLEEPY2" },
+        { "trait": "PAWS" },
+        { "trait": "SNARL" }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_feline_nonthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "FANGS" },
+        { "trait": "CARNIVORE" }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_feline_postthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "THRESH_FELINE" },
+        { "trait": "PRED3" },
+        { "trait": "SABER_TEETH" },
+        { "trait": "TAIL_LONG" }
+    ]
+  },
+
+  {
+    "type" : "trait_group",
+    "id" : "trait_group_plant",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "HEAVYSLEEPER" },
+        { "trait": "BADHEARING" },
+        { "trait": "FASTHEALER2" },
+        { "trait": "BARK" },
+        { "trait": "THORNS" },
+        { "trait": "LEAVES" },
+        { "trait": "STR_UP_2" },
+        { "trait": "DEFORMED2" },
+        { "trait": "PONDEROUS3" },
+        { "trait": "SUNLIGHT_DEPENDENT" },
+        { "trait": "VINES3" }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_plant_nonthres",
+    "subtype": "collection",
+    "traits": [
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_plant_postthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "THRESH_PLANT" },
+        { "trait": "FLOWERS" },
+        { "trait": "DISIMMUNE" },
+        { "trait": "SAPROPHAGE" },
+        { "trait": "ROOTS3" },
+        { "trait": "CHLOROMORPH" }
+    ]
+  },
+
+  {
+    "type" : "trait_group",
+    "id" : "trait_group_ursine",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "BADTEMPER" },
+        { "trait": "URSINE_EYE" },
+        { "trait": "URSINE_FUR" },
+        { "trait": "CLAWS" },
+        { "trait": "PADDED_FEET" },
+        { "trait": "TAIL_STUB" },
+        { "trait": "HIBERNATE" },
+        { "trait": "URSINE_EARS" },
+        { "trait": "FAT" },
+        { "trait": "SMELLY2" },
+        { "trait": "DEFORMED2" },
+        { "trait": "MUZZLE_BEAR" },
+        { "trait": "PAWS_LARGE" },
+        { "trait": "PONDEROUS1" },
+        { "trait": "GROWL" }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_ursine_nonthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "LARGE" }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_ursine_postthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "THRESH_URSINE" },
+        { "trait": "MUT_TOUGH3" },
+        { "trait": "PRED4" },
+        { "trait": "SAPIOVORE" },
+        { "trait": "HUGE_OK" },
+        { "trait": "STR_UP_4" }
+    ]
+  },
+
+  {
+    "type" : "trait_group",
+    "id" : "trait_group_cephalopod",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "CEPH_EYES" },
+        { "trait": "CEPH_VISION" },
+        { "trait": "GILLS_CEPH" },
+        { "trait": "SLIT_NOSTRILS" },
+        { "trait": "DEFORMED" },
+        { "trait": "THIRST2" },
+        { "trait": "BEAK" },
+        { "trait": "SLIMY" },
+        { "trait": "COLDBLOOD" },
+        { "trait": "ARM_TENTACLES_8" }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_cephalopod_nonthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "LEG_TENTACLES" },
+        { "trait": "SHELL"  }
+    ]
+  },{
+    "type" : "trait_group",
+    "id" : "trait_group_cephalopod_postthres",
+    "subtype": "collection",
+    "traits": [
+        { "trait": "THRESH_CEPHALOPOD" },
+        { "trait": "DEX_UP_4" },
+        { "trait": "INT_UP_4" },
+        { "trait": "CLAWS_TENTACLE" },
+        { "trait": "MOUTH_TENTACLES" },
+        { "trait": "LEG_TENT_BRACE" },
+        { "trait": "SHELL2" }
+    ]
+  }
+
+
+
+
+  
+]
