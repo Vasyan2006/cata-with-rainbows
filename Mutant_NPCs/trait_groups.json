@@ -18,10 +18,7 @@
     "type" : "trait_group",
     "id" : "trait_group_spider_nonthres",
     "subtype": "collection",
-    "traits": [
-    { "distribution": [
-        { "trait": "CHITIN3" },
-        { "trait": "CHITIN_FUR2" } ] },   
+    "traits": [ 
     { "trait": "POISONOUS" },
     { "trait": "MANDIBLES" },
     { "distribution": [
@@ -34,6 +31,9 @@
     "subtype": "collection",
     "traits": [
     { "trait": "THRESH_SPIDER" },
+    { "distribution": [
+        { "trait": "CHITIN3" },
+        { "trait": "CHITIN_FUR2" } ] },
     { "trait": "CHITIN_FUR3" },
     { "trait": "CF_HAIR" },
     { "trait": "POISONOUS2" },
