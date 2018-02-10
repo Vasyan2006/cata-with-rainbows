@@ -22,8 +22,8 @@
     { "trait": "POISONOUS" },
     { "trait": "MANDIBLES" },
     { "distribution": [
-        { "trait": "ARACHNID_ARMS" },
-        { "trait": "ARACHNID_ARMS_OK" } ] }
+        { "trait": "CHITIN3" },
+        { "trait": "CHITIN_FUR2" } ] }
     ]
   },{
     "type" : "trait_group",
@@ -32,8 +32,8 @@
     "traits": [
     { "trait": "THRESH_SPIDER" },
     { "distribution": [
-        { "trait": "CHITIN3" },
-        { "trait": "CHITIN_FUR2" } ] },
+        { "trait": "ARACHNID_ARMS" },
+        { "trait": "ARACHNID_ARMS_OK" } ] },
     { "trait": "CHITIN_FUR3" },
     { "trait": "CF_HAIR" },
     { "trait": "POISONOUS2" },
