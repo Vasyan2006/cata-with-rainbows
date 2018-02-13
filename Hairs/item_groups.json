@@ -10,7 +10,7 @@
       ["mutagen_hair_white", 50],
       ["mutagen_hair_pink", 50],
       ["mutagen_hair_gray", 50],
-      ["mutagen_nohair", 50]
+      ["mutagen_hair_bald", 10]
     ]
   },
   {

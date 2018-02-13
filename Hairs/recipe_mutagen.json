@@ -1,8 +1,6 @@
 [
 
-
-
-
+    
   {
   "type" : "recipe",
   "result": "mutagen_hair_blonde",
@@ -28,8 +26,7 @@
       [ "lye_powder", 100 ]
     ]
   ]
-  },
-  {
+  },{
   "type" : "recipe",
   "result": "mutagen_hair_red",
   "category": "CC_CHEM",
@@ -54,8 +51,7 @@
       [ "lye_powder", 100 ]
     ]
   ]
-  },
-  {
+  },{
   "type" : "recipe",
   "result": "mutagen_hair_brown",
   "category": "CC_CHEM",
@@ -80,8 +76,7 @@
       [ "lye_powder", 100 ]
     ]
   ]
-  },
-  {
+  },{
   "type" : "recipe",
   "result": "mutagen_hair_black",
   "category": "CC_CHEM",
@@ -106,8 +101,7 @@
       [ "lye_powder", 100 ]
     ]
   ]
-  },
-  {
+  },{
   "type" : "recipe",
   "result": "mutagen_hair_white",
   "category": "CC_CHEM",
@@ -132,8 +126,7 @@
       [ "lye_powder", 100 ]
     ]
   ]
-  },
-  {
+  },{
   "type" : "recipe",
   "result": "mutagen_hair_pink",
   "category": "CC_CHEM",
@@ -158,8 +151,7 @@
       [ "lye_powder", 100 ]
     ]
   ]
-  },
-  {
+  },{
   "type" : "recipe",
   "result": "mutagen_hair_gray",
   "category": "CC_CHEM",
@@ -184,10 +176,9 @@
       [ "lye_powder", 100 ]
     ]
   ]
-  },
-  {
+  },{
   "type" : "recipe",
-  "result": "mutagen_nohair",
+  "result": "mutagen_hair_bald",
   "category": "CC_CHEM",
   "subcategory": "CSC_CHEM_MUTAGEN",
   "skill_used": "cooking",
@@ -210,19 +201,7 @@
       [ "lye_powder", 100 ]
     ]
   ]
-  },
-
-
-
-
-
-
-
-
-
-
-
-  {
+  },{
   "type" : "recipe",
   "result": "mutagen_eye_blue",
   "category": "CC_CHEM",
@@ -256,8 +235,7 @@
       [ "lye_powder", 100 ]
     ]
   ]
-  },
-  {
+  },{
   "type" : "recipe",
   "result": "mutagen_eye_brown",
   "category": "CC_CHEM",
@@ -291,8 +269,7 @@
       [ "lye_powder", 100 ]
     ]
   ]
-  },
-  {
+  },{
   "type" : "recipe",
   "result": "mutagen_eye_gray",
   "category": "CC_CHEM",
@@ -326,8 +303,7 @@
       [ "lye_powder", 100 ]
     ]
   ]
-  },
-  {
+  },{
   "type" : "recipe",
   "result": "mutagen_eye_red",
   "category": "CC_CHEM",
@@ -361,8 +337,7 @@
       [ "lye_powder", 100 ]
     ]
   ]
-  },
-  {
+  },{
   "type" : "recipe",
   "result": "mutagen_eye_green",
   "category": "CC_CHEM",
@@ -396,8 +371,7 @@
       [ "lye_powder", 100 ]
     ]
   ]
-  },
-  {
+  },{
   "type" : "recipe",
   "result": "mutagen_eye_yellow",
   "category": "CC_CHEM",
@@ -431,37 +405,7 @@
       [ "lye_powder", 100 ]
     ]
   ]
-  },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  {
+  },{
   "type" : "recipe",
   "result": "mutagen_skin_pink",
   "category": "CC_CHEM",
@@ -495,8 +439,7 @@
       [ "lye_powder", 100 ]
     ]
   ]
-  },
-  {
+  },{
   "type" : "recipe",
   "result": "mutagen_skin_light",
   "category": "CC_CHEM",
@@ -530,8 +473,7 @@
       [ "lye_powder", 100 ]
     ]
   ]
-  },
-  {
+  },{
   "type" : "recipe",
   "result": "mutagen_skin_tan",
   "category": "CC_CHEM",
@@ -565,8 +507,7 @@
       [ "lye_powder", 100 ]
     ]
   ]
-  },
-  {
+  },{
   "type" : "recipe",
   "result": "mutagen_skin_dark",
   "category": "CC_CHEM",
@@ -600,8 +541,7 @@
       [ "lye_powder", 100 ]
     ]
   ]
-  },
-  {
+  },{
   "type" : "recipe",
   "result": "mutagen_skin_medium",
   "category": "CC_CHEM",
@@ -635,8 +575,7 @@
       [ "lye_powder", 100 ]
     ]
   ]
-  },
-  {
+  },{
   "type" : "recipe",
   "result": "mutagen_skin_pale",
   "category": "CC_CHEM",
