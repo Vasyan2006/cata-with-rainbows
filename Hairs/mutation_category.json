@@ -96,9 +96,9 @@
         "category" : "BODYPARTS_HAIR_GRAY"
     },{
         "type" : "mutation_category",
-        "id" : "mutation_nohair",
-        "name" : "mutation_nohair",
-        "category" : "BODYPARTS_NOHAIR"
+        "id" : "mutation_hair_bald",
+        "name" : "mutation_hair_bald",
+        "category" : "BODYPARTS_HAIR_BALD"
     }
     
     
