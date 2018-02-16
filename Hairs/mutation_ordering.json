@@ -11,6 +11,9 @@
         },{
             "id" : ["HAIR_WHITE","HAIR_BLACK","HAIR_GREEN","HAIR_PINK","HAIR_RED","HAIR_BLONDE","HAIR_BROWN"],
             "order" : 1501
+        },{
+            "id" : ["LEAVES"],
+            "order" : 1502
         }
         ]
     }
