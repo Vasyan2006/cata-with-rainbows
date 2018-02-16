@@ -152,7 +152,7 @@
         "description" : "You dont have natural head hair.",
         "valid" : false,
         "cancels" : ["HAIR_BLONDE","HAIR_RED","HAIR_BROWN","HAIR_BLACK","HAIR_WHITE","HAIR_PINK","HAIR_GRAY"],
-        "category" : ["MUTCAT_BODYPARTS_NOHAIR"]
+        "category" : ["MUTCAT_BODYPARTS_HAIR_BALD"]
     },
     
     {
@@ -288,10 +288,10 @@
         "threshold": true
     },{
         "type" : "mutation",
-        "id" : "THRESH_BODYPARTS_NOHAIR",
-        "name" : "THRESH_BODYPARTS_NOHAIR",
+        "id" : "THRESH_BODYPARTS_HAIR_BALD",
+        "name" : "THRESH_BODYPARTS_HAIR_BALD",
         "points" : 0,
-        "description" : "THRESH_BODYPARTS_NOHAIR",
+        "description" : "THRESH_BODYPARTS_HAIR_BALD",
         "valid": false,
         "purifiable": false,
         "threshold": true
