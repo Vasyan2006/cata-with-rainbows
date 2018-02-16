@@ -39,7 +39,7 @@
         "id" : "mutagen_eye_yellow",
         "copy-from" : "mutagen_flavor",
         "type" : "COMESTIBLE",
-        "name" : "mutagen - eye green",
+        "name" : "mutagen - eye yellow",
         "description" : "Mutagen - eye yellow.",
         "flags" : [ "MUTAGEN_BODYPARTS_EYE_YELLOW" ]
     },
@@ -143,7 +143,7 @@
         "type" : "COMESTIBLE",
         "name" : "mutagen - no hair",
         "description" : "Mutagen - no hair.",
-        "flags" : [ "MUTAGEN_BODYPARTS_NOHAIR" ]
+        "flags" : [ "MUTAGEN_BODYPARTS_HAIR_BALD" ]
     }
 
 ]
