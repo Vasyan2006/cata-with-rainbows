@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "npc_traits_MORE_PAIN",
+    "name": "NPC traits MORE PAIN edition",
+    "authors": [ "Spencer Michaels" ],
+    "description": "New NPCs spawn with starting traits, like the player does. Now with 25% MORE PAIN.",
+    "category": "misc_additions",
+    "dependencies": [ "dda" ]
+  }
+]
