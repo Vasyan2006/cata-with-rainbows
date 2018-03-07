@@ -68,23 +68,6 @@
         "breaks_into" : [
             {"item": "plastic_chunk", "count": [1, 2]}
         ]
-    },{
-        "type" : "vehicle_part",
-        "id" : "dehydrator",
-        "name" : "dehydrator",
-        "symbol" : "&",
-        "color" : "blue",
-        "broken_symbol" : "*",
-        "broken_color" : "light_blue",
-        "damage_modifier" : 40,
-        "durability" : 200,
-        "item" : "dehydrator",
-        "difficulty" : 2,
-        "location" : "",
-        "flags" : ["KITCHEN", "TOOL_SCREWDRIVER"],
-        "breaks_into" : [
-            {"item": "plastic_chunk", "count": [1, 2]}
-        ]
     }
 
 ]
