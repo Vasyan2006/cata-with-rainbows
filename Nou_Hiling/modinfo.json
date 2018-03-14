@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "nou_hiling",
+    "name": "Nou hiling",
+    "authors": [ "Vasyan" ],
+    "description": "Removes healing during sleep.",
+    "category": "misc_additions",
+    "dependencies": [ "dda" ]
+  }
+]
