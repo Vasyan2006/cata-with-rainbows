@@ -1,5 +1,4 @@
 [
-
     {
         "type" : "mutation",
         "id" : "NO_HEALING",
@@ -7,107 +6,6 @@
         "points" : 0,
         "starting_trait" : true,
         "description" : "Removes healing during sleep.",
-        "healing_resting" : -0.01
-    },{
-        "type" : "mutation",
-        "id" : "FASTHEALER",
-        "name" : "Fast Healer",
-        "points" : 2,
-        "description" : "You heal faster when sleeping and will even recover small amount of HP when not sleeping.",
-        "starting_trait" : true,
-        "cancels" : ["ROT1", "ROT2", "ROT3", "SLOWHEALER", "MET_RAT"],
-        "changes_to" : ["FASTHEALER2", "REGEN_LIZ"],
-        "category" : ["MUTCAT_MEDICAL"],
-        "healing_awake" : 0.002,
-        "healing_resting" : -0.005
-    },{
-        "type" : "mutation",
-        "id" : "FASTHEALER2",
-        "name" : "Very Fast Healer",
-        "points" : 4,
-        "description" : "Your flesh regenerates slowly, and you will regain HP even when not sleeping.",
-        "cancels" : ["ROT1", "ROT2", "ROT3"],
-        "prereqs" : ["FASTHEALER"],
-        "changes_to" : ["REGEN"],
-        "category" : ["MUTCAT_PLANT"],
-        "healing_awake" : 0.0066,
-        "healing_resting" : -0.005
-    },{
-        "type" : "mutation",
-        "id" : "REGEN",
-        "name" : "Regeneration",
-        "points" : 6,
-        "description" : "Your flesh regenerates from wounds incredibly quickly.",
-        "cancels" : ["ROT1", "ROT2", "ROT3"],
-        "prereqs" : ["FASTHEALER2"],
-        "category" : ["MUTCAT_SLIME", "MUTCAT_TROGLOBITE"],
-        "healing_awake" : 0.02,
-        "healing_resting" : 0.005
-    },{
-        "type" : "mutation",
-        "id" : "REGEN_LIZ",
-        "name" : "Reptilian Healing",
-        "points" : 5,
-        "valid" : false,
-        "purifiable" : false,
-        "description" : "Your broken limbs mend themselves without significant difficulty.",
-        "cancels" : ["ROT1", "ROT2", "ROT3"],
-        "prereqs" : ["FASTHEALER"],
-        "threshreq" : ["THRESH_LIZARD"],
-        "category" : ["MUTCAT_LIZARD"],
-        "healing_resting" : -0.01
-    },{
-        "type" : "mutation",
-        "id" : "MET_RAT",
-        "name" : "Rapid Metabolism",
-        "points" : -2,
-        "valid" : false,
-        "description" : "You require more resources than most, but heal more rapidly as well.  Provides weak regeneration even when not asleep.",
-        "cancels" : ["LIGHTEATER", "COLDBLOOD", "COLDBLOOD2", "COLDBLOOD3", "COLDBLOOD4", "FASTHEALER", "FASTHEALER2", "REGEN", "ROT1", "ROT2", "ROT3", "WAKEFUL", "WAKEFUL2", "WAKEFUL3"],
-        "prereqs" : ["HUNGER"],
-        "prereqs2" : ["SLEEPY"],
-        "category" : ["MUTCAT_RAT"],
-        "healing_awake" : 0.002,
-        "healing_resting" : -0.005,
-        "fatigue_modifier": 0.5,
-        "fatigue_regen_modifier": 0.333,
-        "metabolism_modifier": 0.333
-    },{
-        "type" : "mutation",
-        "id" : "ROT1",
-        "name" : "Weakening",
-        "points" : -2,
-        "bodytemp_modifiers" : [-250, -250],
-        "description" : "You feel as though you are slowly weakening and your body heals slower.",
-        "cancels" : ["FASTHEALER", "FASTHEALER2", "REGEN"],
-        "changes_to" : ["ROT2"],
-        "category" : ["MUTCAT_ELFA"],
-        "healing_awake" : -0.00002,
-        "healing_resting" : -0.01
-    },{
-        "type" : "mutation",
-        "id" : "ROT2",
-        "name" : "Deterioration",
-        "points" : -8,
-        "bodytemp_modifiers" : [-750, -750],
-        "description" : "Your body is very slowly wasting away.",
-        "cancels" : ["FASTHEALER", "FASTHEALER2", "REGEN"],
-        "prereqs" : ["ROT1"],
-        "changes_to" : ["ROT3"],
-        "category" : ["MUTCAT_CHIMERA"],
-        "healing_awake" : -0.0002,
-        "healing_resting" : -0.01
-    },{
-        "type" : "mutation",
-        "id" : "ROT3",
-        "name" : "Disintegration",
-        "points" : -10,
-        "bodytemp_modifiers" : [-1500, -1500],
-        "description" : "Your body is slowly wasting away!",
-        "cancels" : ["FASTHEALER", "FASTHEALER2", "REGEN"],
-        "prereqs" : ["ROT2"],
-        "category": ["MUTCAT_ALPHA"],
-        "healing_awake" : -0.0008,
         "healing_resting" : -0.01
     }
 ]
