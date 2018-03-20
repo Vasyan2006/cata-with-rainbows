@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "pallet_lifter",
+    "name": "Pallet Lifter",
+    "authors": [ "Vasyan" ],
+    "description": "Adds makeshift pallet lifter.",
+    "category": "vehicles",
+    "dependencies": [ "dda" ]
+  }
+]
