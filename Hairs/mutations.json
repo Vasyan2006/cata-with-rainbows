@@ -244,8 +244,8 @@
     "points": 0,
     "description": "Your face has light freckles.",
     "starting_trait": true,
-    "valid": false,
-    "purifiable": false,
+    "valid": true,
+    "purifiable": true,
     "cancels": [ "DENSE_FRECKLES" ]
   },
   {
@@ -255,8 +255,8 @@
     "points": 0,
     "description": "Your face and body are covered with dense freckles.",
     "starting_trait": true,
-    "valid": false,
-    "purifiable": false,
+    "valid": true,
+    "purifiable": true,
     "cancels": [ "LIGHT_FRECKLES" ]
   },
   {
