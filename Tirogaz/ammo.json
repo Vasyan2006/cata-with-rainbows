@@ -1,0 +1,33 @@
+[
+  {
+    "type": "AMMO",
+    "id": "mask_filter_filter",
+    "category": "spare_parts",
+    "price": 2500,
+    "name": "filter mask filter cartridge",
+    "symbol": "=",
+    "color": "light_gray",
+    "description": "A replacement filter cartridge for filter mask.",
+    "material": "wood",
+    "volume": 1,
+    "weight": 6,
+    "ammo_type": "mask_filter_filter",
+    "count": 100
+  },
+  {
+    "type": "AMMO",
+    "id": "mask_gas_filter",
+    "category": "spare_parts",
+    "price": 2500,
+    "name": "gas mask filter cartridge",
+    "symbol": "=",
+    "color": "light_gray",
+    "description": "A replacement filter cartridge for gas mask.",
+    "material": "wood",
+    "volume": 1,
+    "weight": 12,
+    "ammo_type": "mask_gas_filter",
+    "count": 100
+  }
+]
+

@@ -1,0 +1,15 @@
+[
+  {
+    "type": "ammunition_type",
+    "id": "mask_filter_filter",
+    "name": "mask filter filter",
+    "default": "mask_filter_filter"
+  },
+  {
+    "type": "ammunition_type",
+    "id": "mask_gas_filter",
+    "name": "mask gas filter",
+    "default": "mask_gas_filter"
+  }
+]
+

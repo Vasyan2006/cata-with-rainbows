@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "Tirogaz",
+    "name": "Tirogaz",
+    "authors": [ "Vasyan" ],
+    "description": "Tirogaz",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]
