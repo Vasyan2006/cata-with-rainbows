@@ -3,14 +3,14 @@
     "type": "item_group",
     "id": "hair_color",
     "items": [
-      [ "mutagen_hair_blonde", 50 ],
-      [ "mutagen_hair_red", 50 ],
-      [ "mutagen_hair_brown", 50 ],
-      [ "mutagen_hair_black", 50 ],
-      [ "mutagen_hair_white", 50 ],
-      [ "mutagen_hair_pink", 50 ],
-      [ "mutagen_hair_gray", 50 ],
-      [ "mutagen_hair_bald", 10 ]
+      [ "hair_dye_blonde", 50 ],
+      [ "hair_dye_red", 50 ],
+      [ "hair_dye_brown", 50 ],
+      [ "hair_dye_black", 50 ],
+      [ "hair_dye_white", 50 ],
+      [ "hair_dye_pink", 50 ],
+      [ "hair_dye_gray", 50 ],
+      [ "hair_dye_bald", 10 ]
     ]
   },
   {

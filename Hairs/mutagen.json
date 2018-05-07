@@ -158,6 +158,89 @@
     "name": "mutagen - no hair",
     "description": "Mutagen - no hair.",
     "flags": [ "MUTAGEN_BODYPARTS_HAIR_BALD" ]
+  },
+  {
+    "id" : "hair_dye",
+    "type" : "COMESTIBLE",
+    "comestible_type" : "DRINK",
+    "name" : "mutagen",
+    "description" : "Hair dye kit.",
+    "category" : "mutagen",
+    "weight" : 250,
+    "volume" : 1,
+    "price" : 100000, "//" : "Not commercially traded, in case there was any question.",
+    "container" : "box_small",
+    "symbol" : "~",
+    "color" : "light_green",
+    "healthy" : -2,
+    "addiction_potential" : 6,
+    "addiction_type" : "mutagen",
+    "use_action" : "MUTAGEN",
+    "flags" : [ "MUTAGEN_ANY", "MUTAGEN_STRONG" ]
+  },
+  {
+    "id": "hair_dye_blonde",
+    "copy-from": "hair_dye",
+    "type": "COMESTIBLE",
+    "name": "Hair dye kit - blonde",
+    "description": "Hair dye kit - blonde.",
+    "flags": [ "MUTAGEN_BODYPARTS_HAIR_BLONDE" ]
+  },
+  {
+    "id": "hair_dye_red",
+    "copy-from": "hair_dye",
+    "type": "COMESTIBLE",
+    "name": "Hair dye kit - red",
+    "description": "Hair dye kit - red.",
+    "flags": [ "MUTAGEN_BODYPARTS_HAIR_RED" ]
+  },
+  {
+    "id": "hair_dye_brown",
+    "copy-from": "hair_dye",
+    "type": "COMESTIBLE",
+    "name": "Hair dye kit - brown",
+    "description": "Hair dye kit - brown.",
+    "flags": [ "MUTAGEN_BODYPARTS_HAIR_BROWN" ]
+  },
+  {
+    "id": "hair_dye_black",
+    "copy-from": "hair_dye",
+    "type": "COMESTIBLE",
+    "name": "Hair dye kit - black",
+    "description": "Hair dye kit - black.",
+    "flags": [ "MUTAGEN_BODYPARTS_HAIR_BLACK" ]
+  },
+  {
+    "id": "hair_dye_white",
+    "copy-from": "hair_dye",
+    "type": "COMESTIBLE",
+    "name": "Hair dye kit - white",
+    "description": "Hair dye kit - white.",
+    "flags": [ "MUTAGEN_BODYPARTS_HAIR_WHITE" ]
+  },
+  {
+    "id": "hair_dye_pink",
+    "copy-from": "hair_dye",
+    "type": "COMESTIBLE",
+    "name": "Hair dye kit - pink",
+    "description": "Hair dye kit - pink.",
+    "flags": [ "MUTAGEN_BODYPARTS_HAIR_PINK" ]
+  },
+  {
+    "id": "hair_dye_gray",
+    "copy-from": "hair_dye",
+    "type": "COMESTIBLE",
+    "name": "Hair dye kit - gray",
+    "description": "Hair dye kit - gray.",
+    "flags": [ "MUTAGEN_BODYPARTS_HAIR_GRAY" ]
+  },
+  {
+    "id": "hair_dye_bald",
+    "copy-from": "hair_dye",
+    "type": "COMESTIBLE",
+    "name": "Hair dye kit - bald",
+    "description": "Hair dye kit - bald.",
+    "flags": [ "MUTAGEN_BODYPARTS_HAIR_BALD" ]
   }
 ]
 
