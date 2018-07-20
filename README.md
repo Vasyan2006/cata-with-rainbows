@@ -1,6 +1,7 @@
 ### Main mods:
 
 Hairs - add cosmetic hair, skin end eye colors. It is possible to choose them at the character creation and change later with mutagens.
+Newer version is here: https://drive.google.com/drive/folders/1Li33j-q-qlAwYPW7sa4aDu3QsXUa7v5q
 
 Initially it was based on "More NPC" japan mod.
 
